@@ -1,6 +1,6 @@
 {
   "name": "is-deflate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect if a Buffer/Uint8Array is compressed using deflate",
   "main": "index.js",
   "dependencies": {},
@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/watson/is-deflate/issues"
   },
-  "homepage": "https://github.com/watson/is-deflate#readme"
+  "homepage": "https://github.com/watson/is-deflate#readme",
+  "coordinates": [
+    55.6666671,
+    12.5798778
+  ]
 }
